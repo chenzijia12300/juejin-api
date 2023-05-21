@@ -2,7 +2,7 @@
 <div align=center>
 <img src="./icon.png" style="width:300px;margin:auto">
 </div>
-掘金网站web端API收集,不定期更新（失业中~）
+掘金网站web端API收集,不定期更新
 
 
 ### 文章相关接口
@@ -41,3 +41,7 @@
 - [福利兑换奖品](./福利兑换奖品.md)
 - [收集BUG](./收集BUG.md)
 - [获得未收集BUG列表](./获得未收集BUG列表.md)
+
+
+### 课程相关接口
+- [课程列表](./获得课程列表.md)
